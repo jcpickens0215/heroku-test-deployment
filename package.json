@@ -1,0 +1,23 @@
+{
+  "name": "heroku-test-deployment",
+  "version": "1.0.0",
+  "description": "Testing Heroku deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcpickens0215/heroku-test-deployment.git"
+  },
+  "author": "Justin Pickens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcpickens0215/heroku-test-deployment/issues"
+  },
+  "homepage": "https://github.com/jcpickens0215/heroku-test-deployment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
